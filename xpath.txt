@@ -1,0 +1,4 @@
+Links = //h2/a/@href
+Título = //div[@class="mb-auto"]/text-fill/a/text()
+Resumen = //div[@class="lead"]/p/text()
+Cuerpo = //div[@id="proportional-anchor-1"]/div/div[@class="autorArticle" or @class="html-content"]/p[not(@class)]/text()
